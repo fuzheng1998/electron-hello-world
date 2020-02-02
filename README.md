@@ -1,0 +1,3 @@
+- yarn 1.2.1
+- electron 7.1.11
+- platform: macOS 10.15
